@@ -1,0 +1,8 @@
+01:35:31,269  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:20 - ------ Starting -----Plus operation-----
+01:35:37,853  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:25 - ------ Ending -----Plus operation-----
+01:35:37,958  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:20 - ------ Starting -----Subtract operation-----
+01:35:43,140  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:25 - ------ Ending -----Subtract operation-----
+01:35:43,209  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:20 - ------ Starting -----Multiply operation-----
+01:35:48,159  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:25 - ------ Ending -----Multiply operation-----
+01:35:48,243  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:20 - ------ Starting -----Division operation-----
+01:35:53,875  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:25 - ------ Ending -----Division operation-----
